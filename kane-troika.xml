@@ -2,33 +2,33 @@
     <remote name="lineage-22.1" fetch="https://github.com/" />
 
 <!-- Device Trees -->
-<project path="device/motorola/exynos9610-common" name="LineageOS_android_device_motorola_exynos9610-common" remote="lineage-22.1" />
-<project path="device/motorola/kane" name="LineageOS_android_device_motorola_kane" remote="lineage-22.1" />
-<project path="device/motorola/troika" name="LineageOS_android_device_motorola_troika" remote="lineage-22.1" />
-<project path="vendor/motorola/exynos9610-common" name="TheMuppets_proprietary_vendor_motorola_exynos9610-common" remote="lineage-22.1" />
-<project path="vendor/motorola/kane" name="TheMuppets_proprietary_vendor_motorola_kane" remote="lineage-22.1" />
-<project path="vendor/motorola/troika" name="TheMuppets_proprietary_vendor_motorola_troika" remote="lineage-22.1" />
+<project path="device/motorola/exynos9610-common" name="LineageOS/android_device_motorola_exynos9610-common" remote="lineage-22.1" />
+<project path="device/motorola/kane" name="LineageOS/android_device_motorola_kane" remote="lineage-22.1" />
+<project path="device/motorola/troika" name="LineageOS/android_device_motorola_troika" remote="lineage-22.1" />
+<project path="vendor/motorola/exynos9610-common" name="TheMuppets/proprietary_vendor_motorola_exynos9610-common" remote="lineage-22.1" />
+<project path="vendor/motorola/kane" name="TheMuppets/proprietary_vendor_motorola_kane" remote="lineage-22.1" />
+<project path="vendor/motorola/troika" name="TheMuppets/proprietary_vendor_motorola_troika" remote="lineage-22.1" />
 
 <!-- Kernel -->
-<project path="kernel/motorola/exynos9610" name="LineageOS_android_kernel_motorola_exynos9610" remote="lineage-22.1" />
+<project path="kernel/motorola/exynos9610" name="LineageOS/android_kernel_motorola_exynos9610" remote="lineage-22.1" />
 
 <!-- Samsung Dependencies -->
-<project path="device/samsung_slsi/sepolicy" name="LineageOS_android_device_samsung_slsi_sepolicy" remote="lineage-22.1" />
-<project path="hardware/samsung" name="LineageOS_android_hardware_samsung" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi/fm" name="LineageOS_android_hardware_samsung_slsi_fm" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi/libbt" name="LineageOS_android_hardware_samsung_slsi_libbt" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/camera" name="LineageOS_android_hardware_samsung_slsi-linaro_camera" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/config" name="LineageOS_android_hardware_samsung_slsi-linaro_config" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/exynos" name="LineageOS_android_hardware_samsung_slsi-linaro_exynos" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/exynos5" name="LineageOS_android_hardware_samsung_slsi-linaro_exynos5" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/graphics" name="LineageOS_android_hardware_samsung_slsi-linaro_graphics" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/interfaces" name="LineageOS_android_hardware_samsung_slsi-linaro_interfaces" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi-linaro/openmax" name="LineageOS_android_hardware_samsung_slsi-linaro_openmax" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS_android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="lineage-22.1" />
-<project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS_android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="lineage-22.1" />
+<project path="device/samsung_slsi/sepolicy" name="LineageOS/android_device_samsung_slsi_sepolicy" remote="lineage-22.1" />
+<project path="hardware/samsung" name="LineageOS/android_hardware_samsung" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi/fm" name="LineageOS/android_hardware_samsung_slsi_fm" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi/libbt" name="LineageOS/android_hardware_samsung_slsi_libbt" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/camera" name="LineageOS/android_hardware_samsung_slsi-linaro_camera" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/config" name="LineageOS/android_hardware_samsung_slsi-linaro_config" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/exynos" name="LineageOS/android_hardware_samsung_slsi-linaro_exynos" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/exynos5" name="LineageOS/android_hardware_samsung_slsi-linaro_exynos5" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/graphics" name="LineageOS/android_hardware_samsung_slsi-linaro_graphics" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/interfaces" name="LineageOS/android_hardware_samsung_slsi-linaro_interfaces" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi-linaro/openmax" name="LineageOS/android_hardware_samsung_slsi-linaro_openmax" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="lineage-22.1" />
+<project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="LineageOS/android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="lineage-22.1" />
 
 <!-- Motorola Dependencies -->
-<project path="hardware/motorola" name="LineageOS_android_hardware_motorola" remote="lineage-22.1" />
-<project path="system/qcom" name="LineageOS_android_system_qcom" remote="lineage-22.1" />
+<project path="hardware/motorola" name="LineageOS/android_hardware_motorola" remote="lineage-22.1" />
+<project path="system/qcom" name="LineageOS/android_system_qcom" remote="lineage-22.1" />
 
 </manifest>
