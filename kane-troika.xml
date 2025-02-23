@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><manifest>
     <remote name="lineage-22.1" fetch="https://github.com/" />
 
-  <!-- Device Trees -->
+<!-- Device Trees -->
 <project path="device/motorola/exynos9610-common" name="LineageOS_android_device_motorola_exynos9610-common" remote="lineage-22.1" />
 <project path="device/motorola/kane" name="LineageOS_android_device_motorola_kane" remote="lineage-22.1" />
 <project path="device/motorola/troika" name="LineageOS_android_device_motorola_troika" remote="lineage-22.1" />
